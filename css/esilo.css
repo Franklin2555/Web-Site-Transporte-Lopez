@@ -1,0 +1,23 @@
+body {
+    font-family: 'Chelsea Market', cursive;
+    font-family: 'Piedra', cursive;
+    font-family: 'Righteous', cursive;
+}
+
+.parallax-container {
+    top: -30px;
+}
+
+.parallax {
+    display: inline-block;
+    text-align: center;
+}
+
+.texto {
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: sans-serif;
+    color: white;
+}
